@@ -1,0 +1,16 @@
+,Parent Message,True Classification,AI Classification
+0,I'm interested in registering my daughter for GenAI Summer Camp. How can I proceed?,Sign-up request,The parent's intention is to sign their kid up for GenAI Summer Camp.
+1,Please let me know the steps to enroll my child in the camp.,Sign-up request,The parent's intention is to sign their child up for the camp.
+2,I'd like to sign up my son for the camp. What information do you need from me?,Sign-up request,The parent's intention is to sign their child up for the camp.
+3,I'm ready to register my two kids for the GenAI Summer Camp. What's the next step?,Sign-up request,The parent's intention is to sign their kids up for the GenAI Summer Camp.
+4,How can I go about enrolling my child in the camp? I'm eager to get them signed up.,Sign-up request,The parent's intention is to sign their child up for the camp.
+5,Can you tell me about the activities planned for the camp?,Question about the camp,Question about the camp.
+6,I'd like to enroll my two kids in GenAI Summer Camp. How can I register them?,Sign-up request,The parent's intention is to sign their kids up for GenAI Summer Camp.
+7,"What are the age requirements for the camp, and is there a scholarship program?",Question about the camp,The parent's intention is to ask a question about the camp.
+8,My son is really into coding. Is GenAI Summer Camp suitable for young programmers?,Question about the camp,The parent's intention is to ask a question about the camp.
+9,"When does the registration for GenAI Summer Camp close, and what are the fees?",Question about the camp,The parent's intention is to ask a question about the camp.
+10,Is there any discount for early registration?,Question about the camp,The parent's intention is to ask a question about the camp.
+11,Are there any special workshops for kids interested in artificial intelligence?,Question about the camp,Question about the camp
+12,How do you ensure the safety of the campers during the program?,Question about the camp,Question about the camp.
+13,I have a question about dietary restrictions. How is food managed at the camp?,Question about the camp,The parent's intention is to ask a question about the camp.
+14,Can you provide information about the camp's location and transportation options?,Question about the camp,The parent's intention is to ask a question about the camp.

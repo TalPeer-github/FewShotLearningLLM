@@ -1,0 +1,13 @@
+,Application Data,AI Answer
+0,"('John Doe', '+1234567890', 'john@example.com', 'Jane Doe', '12')",Great! All the information provided is correct. You can go ahead and submit the application form. We look forward to welcoming Jane to the GenAI Summer Camp!
+1,"('Mary Smith', '+0987654321', 'mary@example.com', 'Tom Smith', '14')",Great! All the information provided is correct. You can go ahead and submit the application form. We look forward to welcoming Tom to the GenAI Summer Camp!
+2,"('Dany', '+0987654355', 'dany@example.com', 'Lily Smith', '3')","I apologize for the confusion, but the GenAI Summer Camp is open to kids and teenagers between the ages of 10 and 18. As Lily is 3 years old, she does not meet the age requirement for the camp. Thank you for your interest, and we hope to see you in the future when Lily is eligible to attend."
+3,"('Lola', '0987654321', '', 'Tal Or', '23')","I apologize for the confusion, but the GenAI Summer Camp is open to kids and teenagers between the ages of 10 and 18. As the kid's age is mentioned as 23, they are unfortunately not eligible to apply for the camp. Thank you for your interest, and if you have any other questions, feel free to ask."
+4,"('Lola', '0987654321', 'lola@lola.com', 'Tal Or', '23')","I apologize for the confusion, but the GenAI Summer Camp is open to kids and teenagers between the ages of 10 to 18. As Tal Or is 23 years old, they are unfortunately not eligible to participate in the camp. Thank you for your interest, and if you have any other questions, feel free to ask."
+5,"('May June', '', '', 'Jon June', '11')","Thank you for providing the information. Please make sure to fill in the missing details:
+
+Phone Number (including country code):
+Email Address: 
+
+Once you have filled in the missing information, please type [Submit]."
+6,"('May June', '0987654321', 'dany@example.com', 'Jon June', '11')","Thank you for providing all the necessary information. Your application for the GenAI Summer Camp has been successfully submitted. We will review your application and get back to you soon with further details. If you have any questions or need any assistance, please feel free to ask."
