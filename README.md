@@ -14,10 +14,8 @@ pip install -r requirements.txt
 ```
 
 ### Run
-> for router task: ```python router_prompt.py```
-
-> for question task: ```python question_prompt.py```
-
-> for application task: ```python application_prompt.py```
+Router task: ```python router_prompt.py```<br>
+Question task: ```python question_prompt.py``` <br>
+Application task: ```python application_prompt.py```<br>
 
 ```
