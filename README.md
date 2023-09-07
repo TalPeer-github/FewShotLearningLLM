@@ -1,5 +1,5 @@
 # LLMPromptEngineering
-All of the open questions can be found within the LLM_home_assigment_Tal.pdf file.
+All of the open questions can be found within the LLM_home_assigment_Tal.pdf file.<br>
 Results for the code experiments can be found within the /experiments folder
 
 ## Environment setup
